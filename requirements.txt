@@ -1,0 +1,4 @@
+asyncio==3.4.3
+DateTime==4.2
+discord.py[voice]
+gtts==2.0.1
